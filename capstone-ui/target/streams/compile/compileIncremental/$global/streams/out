@@ -1,0 +1,113 @@
+[0m[[0mdebug[0m] [0m[0m
+[0m[[0mdebug[0m] [0mInitial source changes: [0m
+[0m[[0mdebug[0m] [0m	removed:Set()[0m
+[0m[[0mdebug[0m] [0m	added: Set(/Users/gvb/Development/scala/coursera/observatory/capstone-ui/src/main/scala/observatory/JSMain.scala, /Users/gvb/Development/scala/coursera/observatory/src/main/scala/observatory/Signal.scala, /Users/gvb/Development/scala/coursera/observatory/src/main/scala/observatory/Interaction2.scala, /Users/gvb/Development/scala/coursera/observatory/src/main/scala/observatory/package.scala, /Users/gvb/Development/scala/coursera/observatory/capstone-ui/src/main/scala/leaflet/L.scala, /Users/gvb/Development/scala/coursera/observatory/src/main/scala/observatory/Visualization.scala, /Users/gvb/Development/scala/coursera/observatory/src/main/scala/observatory/Visualization2.scala, /Users/gvb/Development/scala/coursera/observatory/src/main/scala/observatory/models.scala)[0m
+[0m[[0mdebug[0m] [0m	modified: Set()[0m
+[0m[[0mdebug[0m] [0mInvalidated products: Set()[0m
+[0m[[0mdebug[0m] [0mExternal API changes: API Changes: Set()[0m
+[0m[[0mdebug[0m] [0mModified binary dependencies: Set()[0m
+[0m[[0mdebug[0m] [0mInitial directly invalidated sources: Set(/Users/gvb/Development/scala/coursera/observatory/capstone-ui/src/main/scala/observatory/JSMain.scala, /Users/gvb/Development/scala/coursera/observatory/src/main/scala/observatory/Signal.scala, /Users/gvb/Development/scala/coursera/observatory/src/main/scala/observatory/Interaction2.scala, /Users/gvb/Development/scala/coursera/observatory/src/main/scala/observatory/package.scala, /Users/gvb/Development/scala/coursera/observatory/capstone-ui/src/main/scala/leaflet/L.scala, /Users/gvb/Development/scala/coursera/observatory/src/main/scala/observatory/Visualization.scala, /Users/gvb/Development/scala/coursera/observatory/src/main/scala/observatory/Visualization2.scala, /Users/gvb/Development/scala/coursera/observatory/src/main/scala/observatory/models.scala)[0m
+[0m[[0mdebug[0m] [0m[0m
+[0m[[0mdebug[0m] [0mSources indirectly invalidated by:[0m
+[0m[[0mdebug[0m] [0m	product: Set()[0m
+[0m[[0mdebug[0m] [0m	binary dep: Set()[0m
+[0m[[0mdebug[0m] [0m	external source: Set()[0m
+[0m[[0mdebug[0m] [0mAll initially invalidated sources: Set(/Users/gvb/Development/scala/coursera/observatory/capstone-ui/src/main/scala/observatory/JSMain.scala, /Users/gvb/Development/scala/coursera/observatory/src/main/scala/observatory/Signal.scala, /Users/gvb/Development/scala/coursera/observatory/src/main/scala/observatory/Interaction2.scala, /Users/gvb/Development/scala/coursera/observatory/src/main/scala/observatory/package.scala, /Users/gvb/Development/scala/coursera/observatory/capstone-ui/src/main/scala/leaflet/L.scala, /Users/gvb/Development/scala/coursera/observatory/src/main/scala/observatory/Visualization.scala, /Users/gvb/Development/scala/coursera/observatory/src/main/scala/observatory/Visualization2.scala, /Users/gvb/Development/scala/coursera/observatory/src/main/scala/observatory/models.scala)[0m
+[0m[[0mdebug[0m] [0mRecompiling all 8 sources: invalidated sources (8) exceeded 50.0% of all sources[0m
+[0m[[0minfo[0m] [0mCompiling 8 Scala sources to /Users/gvb/Development/scala/coursera/observatory/capstone-ui/target/scala-2.11/classes...[0m
+[0m[[0mdebug[0m] [0mGetting compiler-interface from component compiler for Scala 2.11.8[0m
+[0m[[0mdebug[0m] [0mGetting compiler-interface from component compiler for Scala 2.11.8[0m
+[0m[[0mdebug[0m] [0mRunning cached compiler c3d0853, interfacing (CompilerInterface) with Scala compiler version 2.11.8[0m
+[0m[[0mdebug[0m] [0mCalling Scala compiler with arguments  (CompilerInterface):[0m
+[0m[[0mdebug[0m] [0m	-Xplugin:/Users/gvb/.coursier/cache/v1/http/repo1.maven.org/maven2/org/scala-js/scalajs-compiler_2.11.8/0.6.11/scalajs-compiler_2.11.8-0.6.11.jar[0m
+[0m[[0mdebug[0m] [0m	-bootclasspath[0m
+[0m[[0mdebug[0m] [0m	/Library/Java/JavaVirtualMachines/jdk1.8.0_73.jdk/Contents/Home/jre/lib/resources.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_73.jdk/Contents/Home/jre/lib/rt.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_73.jdk/Contents/Home/jre/lib/sunrsasign.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_73.jdk/Contents/Home/jre/lib/jsse.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_73.jdk/Contents/Home/jre/lib/jce.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_73.jdk/Contents/Home/jre/lib/charsets.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_73.jdk/Contents/Home/jre/lib/jfr.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_73.jdk/Contents/Home/jre/classes:/Users/gvb/.coursier/cache/v1/http/repo1.maven.org/maven2/org/scala-lang/scala-library/2.11.8/scala-library-2.11.8.jar[0m
+[0m[[0mdebug[0m] [0m	-classpath[0m
+[0m[[0mdebug[0m] [0m	/Users/gvb/Development/scala/coursera/observatory/capstone-ui/target/scala-2.11/classes:/Users/gvb/.coursier/cache/v1/http/repo1.maven.org/maven2/org/scala-js/scalajs-dom_sjs0.6_2.11/0.9.1/scalajs-dom_sjs0.6_2.11-0.9.1.jar:/Users/gvb/.coursier/cache/v1/http/repo1.maven.org/maven2/com/lihaoyi/sourcecode_sjs0.6_2.11/0.1.1/sourcecode_sjs0.6_2.11-0.1.1.jar:/Users/gvb/.coursier/cache/v1/http/repo1.maven.org/maven2/org/scala-js/scalajs-library_2.11/0.6.11/scalajs-library_2.11-0.6.11.jar:/Users/gvb/.coursier/cache/v1/http/repo1.maven.org/maven2/com/lihaoyi/scalatags_sjs0.6_2.11/0.6.0/scalatags_sjs0.6_2.11-0.6.0.jar[0m
+[0m[[31merror[0m] [0m/Users/gvb/Development/scala/coursera/observatory/src/main/scala/observatory/Visualization.scala:3: object sksamuel is not a member of package com[0m
+[0m[[31merror[0m] [0mimport com.sksamuel.scrimage.{Image, Pixel, RGBColor}[0m
+[0m[[31merror[0m] [0m           ^[0m
+[0m[[31merror[0m] [0m/Users/gvb/Development/scala/coursera/observatory/src/main/scala/observatory/Visualization.scala:141: not found: type Image[0m
+[0m[[31merror[0m] [0m  def visualize(temperatures: Iterable[(Location, Temperature)], colors: Iterable[(Temperature, Color)]): Image = {[0m
+[0m[[31merror[0m] [0m                                                                                                          ^[0m
+[0m[[31merror[0m] [0m/Users/gvb/Development/scala/coursera/observatory/src/main/scala/observatory/Visualization.scala:143: not found: type Pixel[0m
+[0m[[31merror[0m] [0m    val pixels = Array.ofDim[Pixel](180,360)[0m
+[0m[[31merror[0m] [0m                             ^[0m
+[0m[[31merror[0m] [0m/Users/gvb/Development/scala/coursera/observatory/src/main/scala/observatory/Visualization.scala:154: not found: value Image[0m
+[0m[[31merror[0m] [0m    Image(360,180, pixels.flatten)[0m
+[0m[[31merror[0m] [0m    ^[0m
+[0m[[31merror[0m] [0m/Users/gvb/Development/scala/coursera/observatory/src/main/scala/observatory/Visualization2.scala:5: object sksamuel is not a member of package com[0m
+[0m[[31merror[0m] [0mimport com.sksamuel.scrimage.{Image, Pixel, RGBColor}[0m
+[0m[[31merror[0m] [0m           ^[0m
+[0m[[31merror[0m] [0m/Users/gvb/Development/scala/coursera/observatory/src/main/scala/observatory/Visualization2.scala:6: object Interaction is not a member of package observatory[0m
+[0m[[31merror[0m] [0mimport observatory.Interaction.{IMAGE_SIZE, MAKE_COMPLETE_ZOOM_SET, ZOOM}[0m
+[0m[[31merror[0m] [0m                   ^[0m
+[0m[[31merror[0m] [0m/Users/gvb/Development/scala/coursera/observatory/src/main/scala/observatory/Visualization2.scala:8: object apache is not a member of package org[0m
+[0m[[31merror[0m] [0mimport org.apache.hadoop.conf.Configuration[0m
+[0m[[31merror[0m] [0m           ^[0m
+[0m[[31merror[0m] [0m/Users/gvb/Development/scala/coursera/observatory/src/main/scala/observatory/Visualization2.scala:9: object apache is not a member of package org[0m
+[0m[[31merror[0m] [0mimport org.apache.hadoop.fs.{FileSystem, Path}[0m
+[0m[[31merror[0m] [0m           ^[0m
+[0m[[31merror[0m] [0m/Users/gvb/Development/scala/coursera/observatory/src/main/scala/observatory/Visualization2.scala:56: not found: type Image[0m
+[0m[[31merror[0m] [0m  ): Image = {[0m
+[0m[[31merror[0m] [0m     ^[0m
+[0m[[31merror[0m] [0m/Users/gvb/Development/scala/coursera/observatory/src/main/scala/observatory/Visualization2.scala:58: not found: type Pixel[0m
+[0m[[31merror[0m] [0m    val pixels = Array.ofDim[Pixel](IMAGE_SIZE,IMAGE_SIZE)[0m
+[0m[[31merror[0m] [0m                             ^[0m
+[0m[[31merror[0m] [0m/Users/gvb/Development/scala/coursera/observatory/src/main/scala/observatory/Visualization2.scala:58: not found: value IMAGE_SIZE[0m
+[0m[[31merror[0m] [0m    val pixels = Array.ofDim[Pixel](IMAGE_SIZE,IMAGE_SIZE)[0m
+[0m[[31merror[0m] [0m                                    ^[0m
+[0m[[31merror[0m] [0m/Users/gvb/Development/scala/coursera/observatory/src/main/scala/observatory/Visualization2.scala:58: not found: value IMAGE_SIZE[0m
+[0m[[31merror[0m] [0m    val pixels = Array.ofDim[Pixel](IMAGE_SIZE,IMAGE_SIZE)[0m
+[0m[[31merror[0m] [0m                                               ^[0m
+[0m[[31merror[0m] [0m/Users/gvb/Development/scala/coursera/observatory/src/main/scala/observatory/Visualization2.scala:59: not found: value IMAGE_SIZE[0m
+[0m[[31merror[0m] [0m    val ptemps = Array.ofDim[Temperature](IMAGE_SIZE,IMAGE_SIZE)[0m
+[0m[[31merror[0m] [0m                                          ^[0m
+[0m[[31merror[0m] [0m/Users/gvb/Development/scala/coursera/observatory/src/main/scala/observatory/Visualization2.scala:59: not found: value IMAGE_SIZE[0m
+[0m[[31merror[0m] [0m    val ptemps = Array.ofDim[Temperature](IMAGE_SIZE,IMAGE_SIZE)[0m
+[0m[[31merror[0m] [0m                                                     ^[0m
+[0m[[31merror[0m] [0m/Users/gvb/Development/scala/coursera/observatory/src/main/scala/observatory/Visualization2.scala:62: not found: value IMAGE_SIZE[0m
+[0m[[31merror[0m] [0m    (0 until IMAGE_SIZE).foreach { y =>[0m
+[0m[[31merror[0m] [0m             ^[0m
+[0m[[31merror[0m] [0m/Users/gvb/Development/scala/coursera/observatory/src/main/scala/observatory/Visualization2.scala:63: not found: value IMAGE_SIZE[0m
+[0m[[31merror[0m] [0m      (0 until IMAGE_SIZE).par.foreach { x =>    // par here[0m
+[0m[[31merror[0m] [0m               ^[0m
+[0m[[31merror[0m] [0m/Users/gvb/Development/scala/coursera/observatory/src/main/scala/observatory/Visualization2.scala:64: not found: value IMAGE_SIZE[0m
+[0m[[31merror[0m] [0m        val ploc = tile.getPixelLocation(x,y,IMAGE_SIZE)[0m
+[0m[[31merror[0m] [0m                                             ^[0m
+[0m[[31merror[0m] [0m/Users/gvb/Development/scala/coursera/observatory/src/main/scala/observatory/Visualization2.scala:72: not found: value Image[0m
+[0m[[31merror[0m] [0m    Image(IMAGE_SIZE,IMAGE_SIZE, pixels.flatten)[0m
+[0m[[31merror[0m] [0m    ^[0m
+[0m[[31merror[0m] [0m/Users/gvb/Development/scala/coursera/observatory/src/main/scala/observatory/Visualization2.scala:72: not found: value IMAGE_SIZE[0m
+[0m[[31merror[0m] [0m    Image(IMAGE_SIZE,IMAGE_SIZE, pixels.flatten)[0m
+[0m[[31merror[0m] [0m          ^[0m
+[0m[[31merror[0m] [0m/Users/gvb/Development/scala/coursera/observatory/src/main/scala/observatory/Visualization2.scala:72: not found: value IMAGE_SIZE[0m
+[0m[[31merror[0m] [0m    Image(IMAGE_SIZE,IMAGE_SIZE, pixels.flatten)[0m
+[0m[[31merror[0m] [0m                     ^[0m
+[0m[[31merror[0m] [0m/Users/gvb/Development/scala/coursera/observatory/src/main/scala/observatory/Visualization2.scala:113: not found: type Configuration[0m
+[0m[[31merror[0m] [0m  def generateTiles[Data](year: Int, temperatures: GridLocation => Temperature, colors: Iterable[(Temperature,Color)], hadoopConf: Configuration, fsPrefix: String): Unit = {[0m
+[0m[[31merror[0m] [0m                                                                                                                                   ^[0m
+[0m[[31merror[0m] [0m/Users/gvb/Development/scala/coursera/observatory/src/main/scala/observatory/Visualization2.scala:116: not found: value ZOOM[0m
+[0m[[31merror[0m] [0m    val zStop = ZOOM+1[0m
+[0m[[31merror[0m] [0m                ^[0m
+[0m[[31merror[0m] [0m/Users/gvb/Development/scala/coursera/observatory/src/main/scala/observatory/Visualization2.scala:117: not found: value MAKE_COMPLETE_ZOOM_SET[0m
+[0m[[31merror[0m] [0m    val zStart = if(MAKE_COMPLETE_ZOOM_SET) 0 else ZOOM[0m
+[0m[[31merror[0m] [0m                    ^[0m
+[0m[[31merror[0m] [0m/Users/gvb/Development/scala/coursera/observatory/src/main/scala/observatory/Visualization2.scala:117: not found: value ZOOM[0m
+[0m[[31merror[0m] [0m    val zStart = if(MAKE_COMPLETE_ZOOM_SET) 0 else ZOOM[0m
+[0m[[31merror[0m] [0m                                                   ^[0m
+[0m[[31merror[0m] [0m/Users/gvb/Development/scala/coursera/observatory/src/main/scala/observatory/Visualization2.scala:129: not found: type Configuration[0m
+[0m[[31merror[0m] [0m  def makeTile[Data](tile: Tile, year: Int, temperatures: GridLocation => Temperature, hadoopConf: Configuration, fsPrefix: String): Unit = {[0m
+[0m[[31merror[0m] [0m                                                                                                   ^[0m
+[0m[[31merror[0m] [0m/Users/gvb/Development/scala/coursera/observatory/src/main/scala/observatory/Visualization2.scala:149: not found: type Configuration[0m
+[0m[[31merror[0m] [0m  def writeToFile(bytes: Array[Byte], base: String, fileName: String, hadoopConf: Configuration): Unit = {[0m
+[0m[[31merror[0m] [0m                                                                                  ^[0m
+[0m[[31merror[0m] [0m/Users/gvb/Development/scala/coursera/observatory/src/main/scala/observatory/Visualization2.scala:151: not found: value FileSystem[0m
+[0m[[31merror[0m] [0m    val fs = FileSystem.get(hadoopConf)[0m
+[0m[[31merror[0m] [0m             ^[0m
+[0m[[31merror[0m] [0m/Users/gvb/Development/scala/coursera/observatory/src/main/scala/observatory/Visualization2.scala:152: not found: type Path[0m
+[0m[[31merror[0m] [0m    val path = new Path(base + "/" + fileName)[0m
+[0m[[31merror[0m] [0m                   ^[0m
+[0m[[31merror[0m] [0m28 errors found[0m
+[0m[[0mdebug[0m] [0mCompilation failed (CompilerInterface)[0m
+[0m[[31merror[0m] [0m(capstoneUI/compile:[31mcompileIncremental[0m) Compilation failed[0m
